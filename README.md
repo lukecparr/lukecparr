@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there 👋
 I'm a Web Developer based in New Hapshire. I love simple, powerful software that helps people live better lives. I keep my head in the clouds and my hands in the dirt; I love daydreaming about the possibilities while working on all the little things it takes to get there.
 I'm currently finishing up my program at Lambda School for Full Stack Web Development and looking for my next opportunity.
 
